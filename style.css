@@ -99,7 +99,7 @@ header{
     display:flex;
     justify-content:space-between;
     align-items:center;
-    gap:60px;
+    gap:80px;
 }
 
 .hero-text{
@@ -107,12 +107,12 @@ header{
 }
 
 .hero-image{
-    width: 600px;
+    width: 500px;
 }
 
 .hero-image img{
     width:100%;
-    max-width:450px;
+    max-width:500px;
     margin:auto;
 }
 
